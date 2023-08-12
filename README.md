@@ -42,10 +42,10 @@
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 </div>
 
+# 📊 GitHub Stats:
+
 <div align='center'>
 
-
-# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikola-bozin-org&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikola-bozin-org&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
