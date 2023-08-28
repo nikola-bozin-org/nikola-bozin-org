@@ -25,7 +25,7 @@
 
 <h3>Devops</h3>
 
-![Docker](ttps://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
 <h3>Web3</h4>
