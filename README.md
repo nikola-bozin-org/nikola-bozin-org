@@ -6,7 +6,7 @@
 </p>
 
 ### About me 💯
-- 🔧 My day job is to build plugins and application systems people use.
+- 🔧 My day job is to building plugins and application systems people use.
 - 🎓 I hold a Bachelor's degree in Computers and IT from the Faculty of Electronic Engineering (Serbia).
 - ❤️ Generally, I'm passionate about **Microservices architecture, Ethereum & zkSync L2, Cryptocurrencies**.
 - 📫 How to reach me: [mail@nikolabozin.com](mailto:mail@nikolabozin.com).
