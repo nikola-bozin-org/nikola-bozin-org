@@ -13,7 +13,7 @@
 - 🏠 Where I'm at home: I'm based in Nis, Serbia & ocasionally Vienna, Austria.
 - 🌱 I'm currently learning to reprogram my self - broadly speaking.
 - 💬 Ask me about anything about personal development & motivation - I probably can help you.
-- ⚡ Fun fact: If you are not happy on what you are getting, you better focus on what are you giving.
+- ⚡ Fun fact: If you are not happy on what you are **getting**, you better focus on what are you **giving**.
 
 ### 🎯 Skills
 
