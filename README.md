@@ -53,15 +53,8 @@
         src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/></a>
 </p>
 
-- [tokio.rs](https://tokio.rs/)
-- [axum.rs](https://docs.rs/axum/latest/axum/)
-- [sqlx.rs](https://docs.rs/sqlx/latest/sqlx/)
-- [serde.rs](https://serde.rs/)
-
-- [ethers.js](https://docs.ethers.io)
-- [web3.js](https://web3js.readthedocs.io)
-- [hardhat.js](https://hardhat.org/)
-
+And many others... but the most important ones:
+[tokio.rs](https://tokio.rs/), [axum.rs](https://docs.rs/axum/latest/axum/), [sqlx.rs](https://docs.rs/sqlx/latest/sqlx/), [serde.rs](https://serde.rs/), [ethers.js](https://docs.ethers.io), [web3.js](https://web3js.readthedocs.io), [hardhat.js](https://hardhat.org/)
 
 
 ### 📊 GitHub Stats:
