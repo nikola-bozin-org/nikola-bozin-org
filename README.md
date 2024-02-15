@@ -12,7 +12,7 @@
 - 📫 How to reach me: [mail@nikolabozin.com](mailto:mail@nikolabozin.com) or [nikola.bozin.org@gmail.com](mailto:nikola.bozin.org@gmail.com).
 - 🏠 Where I'm at home: I'm based in Nis, Serbia & ocasionally Vienna, Austria.
 - 🌱 I'm currently learning to reprogram my self - broadly speaking.
-- 💬 Ask me about anything about personal development & motivation - I probably can help you.
+- 💬 Ask me anything about personal development & motivation - I probably can help you.
 - ⚡ Fun fact: If you are not happy on what you are **getting**, you better focus on what are you **giving**.
 
 ## 🎯 Skills
