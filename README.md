@@ -6,6 +6,7 @@
 </p>
 
 ## About me 💯
+- 🦀 Absolutely hooked on Rust!
 - 🔧 My day job is to building plugins and application systems people use.
 - 🎓 I hold a Bachelor's degree in Computers and IT from the Faculty of Electronic Engineering.
 - ❤️ Generally, I'm passionate about **Microservices architecture, Ethereum & zkSync L2, Web3**.
