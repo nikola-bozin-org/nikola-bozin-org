@@ -7,6 +7,7 @@
 
 ## About me 💯
 - 🦀 Absolutely hooked on Rust!
+- 🔭 'm currently building [Wisdomia](https://www.wisdomia.vip/), a platform aimed to increase the value of the people, their habits and mindset.
 - 🔧 My day job is to building plugins and application systems people use.
 - 🎓 I hold a Bachelor's degree in Computers and IT from the Faculty of Electronic Engineering.
 - ❤️ Generally, I'm passionate about **Microservices architecture, Ethereum & zkSync L2, Web3**.
